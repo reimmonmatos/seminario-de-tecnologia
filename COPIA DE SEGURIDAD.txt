@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">  
+  <head>    
+    <title>P.F.S.REIMONMATOS</title>    
+    <meta charset="UTF-8">
+    <meta name="title" content="Título de la WEB">
+    <meta name="description" content="Descripción de la WEB">    
+    <link href="http://dominio.com/hoja-de-estilos.css" rel="stylesheet" type="text/css"/>    
+  </head>  
+  <body>  
+  <div align="center">
+  <img src="RECURSOS\html5.png"> 
+  <div>
+  <P>
+ <strong> HTML5</strong>
+ <br>
+ <br>
+ </p>
+ <P ALIGN="left">
+HTML5 es un lenguaje de marcas empleado para estructurar y presentar contenido en la WWW. Como su nombre lo indica es la quinta revisión del estándar HTML y permite soportar lo último en multimedia. De hecho HTML5 agrega elementos como video, audio, como así también integración para gráficos vectoriales (SVG) y MathML para fórmulas matemáticas. Estas características permiten incluir y controlar contenido multimedia en la web sin tener que recurrir a plugins ni APIs propietarias.
+  También se incluyen nuevos elementos (como section, article, header y nav) y atributos, y se han eliminado otros para enriquecer la semántica del contenido de documentos. HTML5 es un candidato potencial para ser usado en aplicaciones multiplataforma móviles, incluso muchas de las características de este lenguaje fueron pensadas para ser ejecutadas en dispositivos de bajo consumo como tabletas y teléfonos inteligentes.
+  <br><br>
+  Características técnicas de HTML5:
+HTML5 intenta sintetizar HTML4, XHTML 1 y DOM Level 2 HTML, permitiendo también ser escrito usando sintaxis HTML o XHTML. Es importante destacar que HTML5 aún necesita fuertemente de CSS y JavaScriptpara darle estilo, animaciones e interacción a una página web y HTML5  es la última versión de HTML.
+  Inicio y desarrollo de HTML5:
+El estándar anterior de HTML fue el HTML 4.01 del año 1999, quince años antes de que el estándar HTML5 fuera publicado. De todas maneras múltiples sitios web comenzaron a escribirse en XHTML, una versión más estricta del HTML publicado en 2000. El desarrollo del HTML5 se inició en 2007 y comenzó a implementarse en 2010. Fue diseñado para reemplazar el HTML 4 y el XHTML, dándoles a los diseñadores web un estándar más simple que incluya las nuevas características de la web moderna. En la actualidad los sitios web más interactivos utilizan HTML5, CSS3 y Java Script o jQuery.
+ <br><br>
+ Como toda señal de mejoría, HTML5 muestra un gran progreso que permite a los diseñadores Web, aventurarse en la creación de sitios de manera inigualable. Gracias a los nuevos atributos y características de esta quinta versión, multiplataforma, de HTML, las posibilidades son infinitas, desde la creación de animaciones hasta la construcción de aplicaciones. Más de 15 años tuvieron que transcurrir para que HTML5 saliera a la luz, sin embargo, la espera valió la pena.
+  <br><br>
+  HTML5 está equipado con elementos básicos que se encontraban en sus versiones anteriores.Sin embargo, también contiene nuevas propiedades que aportan un sinfín de oportunidades en diseño y desarrollo. A continuación, te describo seis de los beneficios que HTML5 ofrece para la creación sitios y aplicaciones Web: Incorporación de video, Experiencia de usuario, Un código más limpio, Compatibilidad múltiple entre navegadores, Optimización para móviles, Una mejor posibilidad de rankin.
+  
+  </P><br>
+  <br>
+  
+  <P ALIGN="left">
+  <strong>Referencias para saber mas de este tema</strong>
+  <br><br>
+ <a href="https://info.netcommerce.mx/blog/6-beneficios-de-html5/" target = black> Net commerce</a>
+ <br>
+ <a href="https://es.wikipedia.org/wiki/HTML5" target = black>Wikipedia</a>
+ <br>
+ <a href="https://developer.mozilla.org/es/docs/HTML/HTML5/HTML5_lista_elementos" target = black>MDN web docs</a>
+ <br>
+ <a href="https://www.w3schools.com/html/html5_intro.asp" target = black>W3schools</a>
+ <br><br>
+ <strong>Videos que te recomendamos para el aprendisaje de este tema </strong>
+ <br>
+ <a href="https://codigofacilito.com/cursos/HTML5" target = black = black>Codigo facilito</a>
+ 
+ 
+ <br>
+ 
+ 
+ </p>
+  </body>  
+</html>
